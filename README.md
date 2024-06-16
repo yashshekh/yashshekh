@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Yash Shekhar 👨‍💻</h1>
 <h3 align="center">A passionate AI & ML enthusiast from India🌏.</h3>
-![coding](https://github.com/yashshekh/yashshekh/assets/120656373/a12eed6e-c1fd-4d8a-9938-097f1fae5314)
+[coding.md](https://github.com/user-attachments/files/15856413/coding.md)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashshekh&label=Profile%20views&color=0e75b6&style=flat" alt="yashshekh" /> </p>
 
