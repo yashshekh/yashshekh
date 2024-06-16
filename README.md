@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **hkun89828@gmail.com**
 
-- ⚡ Fun fact: **My friends feel we're on same level until I stand up😎 (I'm 6 feet XD).**
+- ⚡ PS: **My friends feel we're on same level until I stand up😎 (I'm 6 feet XD).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
