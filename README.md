@@ -1,12 +1,12 @@
 <h1 align="center">Hey there 👋, I'm Yash Shekhar 👨‍💻</h1>
 <h3 align="center">A passionate AI & ML enthusiast from India🌏.</h3>
-[coding.md](https://github.com/user-attachments/files/15856421/coding.md)
+![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://github.com/yashshekh/yashshekh/assets/120656373/0662231a-155e-4fcf-8101-aa74c724af32)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashshekh&label=Profile%20views&color=0e75b6&style=flat" alt="yashshekh" /> </p>
 
-- 📖 I’m currently learning **Generative AI and Large Language Models (LLM).**
-
 - 🔭 I'm currently **working on something cool 😉.**
+
+- 📖 I’m currently learning **Generative AI and Large Language Models (LLM).**
 
 - 💬 Ask me anything about **Natural Language Processing and OpenCV.**
 
