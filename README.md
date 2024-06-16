@@ -12,15 +12,15 @@
 
 - 📫 How to reach me **hkun89828@gmail.com**
 
-- ⚡ PS: **My friends feel we're on same level until I stand up😎 (I'm 6 feet XD).**
+- ⚡ Fun fact: **My friends feel we're on same level until I stand up😎 (I'm 6 feet XD).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yash shekhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash shekhar" height="30" width="40" /></a>
-<a href="https://kaggle.com/yash shekhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yash shekhar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shekhar-yash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shekhar-yash" height="30" width="40" /></a>
+<a href="https://kaggle.com/ittobonk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ittobonk" height="30" width="40" /></a>
 <a href="https://instagram.com/_yash.shekhar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_yash.shekhar_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/unlucky gamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="unlucky gamer" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/yash shekhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yash shekhar" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@yashshekhar1576" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@yashshekhar1576" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hkun89828" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hkun89828" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
