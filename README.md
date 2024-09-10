@@ -12,7 +12,9 @@
 
 - 📫 How to reach me **hkun89828@gmail.com**
 
-- 📄 My resume: https://rxresu.me/hkun89828/yash-shekhar
+- 📄 My resume: [Resume](https://rxresu.me/hkun89828/yash-shekhar)
+
+- 📝 My Portfolio: [Portfolio](https://yashshekh.netlify.app/) 
 
 - ⚡ Fun fact: **My friends feel we're on same level until I stand up😎 (I'm 6 feet XD).**
 
